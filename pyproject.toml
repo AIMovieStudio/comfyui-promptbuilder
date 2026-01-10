@@ -1,0 +1,22 @@
+[project]
+name = "comfyui-promptbuilder"
+description = "Stop wasting hours tweaking prompt. This extension allows you to modularize your prompts into variables and assemble them using a powerful template-based approach."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+readme = "README.md"
+classifiers = [
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+]
+
+[project.urls]
+Repository = "https://github.com/aimoviestudio/comfyui-promptbuilder"
+# Documentation = "" # Add if available
+
+[tool.comfy]
+PublisherId = "aimoviestudio"
+DisplayName = "ComfyUI Prompt Builder"
+Icon = "https://raw.githubusercontent.com/aimoviestudio/comfyui-promptbuilder/main/assets/comfyui-promptbuilder-cover.png"
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
