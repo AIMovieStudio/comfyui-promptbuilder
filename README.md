@@ -15,7 +15,7 @@ Stop wasting hours tweaking prompt. This extension allows you to modularize your
 1.  Navigate to your ComfyUI `custom_nodes` directory.
 2.  Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/comfyui-promptbuilder.git
+    git clone https://github.com/AIMovieStudio/comfyui-promptbuilder.git
     ```
 3.  Restart ComfyUI.
 
