@@ -16,7 +16,7 @@ Repository = "https://github.com/aimoviestudio/comfyui-promptbuilder"
 [tool.comfy]
 PublisherId = "aimoviestudio"
 DisplayName = "ComfyUI Prompt Builder"
-Icon = "https://raw.githubusercontent.com/aimoviestudio/comfyui-promptbuilder/main/assets/comfyui-promptbuilder-icon.png"
+Icon = "https://raw.githubusercontent.com/aimoviestudio/comfyui-promptbuilder/main/assets/comfyui-promptbuilder-cover.png"
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
