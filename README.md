@@ -10,6 +10,10 @@ Stop wasting hours tweaking prompt. This extension allows you to modularize your
 -   **Easy Templates**: Combine these pieces using a simple "fill-in-the-blanks" system.
 -   **Mix and Match**: Instantly swap out parts of your prompt to try new ideas without rewriting the whole thing.
 
+## Watch Video
+
+[![Watch the video](https://img.youtube.com/vi/1tY-f27KVV8/maxresdefault.jpg)](https://youtu.be/1tY-f27KVV8)
+
 ## Installation
 
 1.  Navigate to your ComfyUI `custom_nodes` directory.
